@@ -90,8 +90,8 @@ loaded_model = RandomForestRegressionModel.load("/content/best_random_forest_mod
 
 ### 🙋‍♂️ Author
 
-R Manisha Achary
-Data Science Intern  
-📧 manisha.achary13@gmail.com
+R Manisha Achary<br>
+Data Science Intern <br> 
+📧 manisha.achary13@gmail.com<br>
 🔗 https://www.linkedin.com/in/r-manisha-achary-470798204
 
